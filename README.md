@@ -1,5 +1,4 @@
-1. -- Overview
-
+-- Overview
 The script automates the following flow:
 
 1.Launches the Chrome browser.
