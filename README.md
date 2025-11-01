@@ -1,4 +1,5 @@
 -- Overview
+
 The script automates the following flow:
 
 1.Launches the Chrome browser.
@@ -11,16 +12,19 @@ The script automates the following flow:
 8.Captures a screenshot of the cart page for verification.
 
 Validates that the product name and price in the cart are correct.
+
 If both values match, the script prints “Test Passed: Item and price are correct!”, otherwise it prints “Test Failed: Validation mismatch!”.
 
 -- Tools & Technologies :
-Language: Java
-Automation Framework: Selenium WebDriver
-Browser: Google Chrome
-IDE : Eclipse 
+
+  Language: Java
+  Automation Framework: Selenium WebDriver
+  Browser: Google Chrome
+  IDE : Eclipse 
 
 
---Setup Instructions
+--Setup Instructions:
+
   1.Install Prerequisites
   2.Java JDK 8 or above
   3.Eclipse IDE
@@ -31,6 +35,7 @@ IDE : Eclipse
 
 
 -- Steps to run the project:
+
   1.Add it to your system PATH or specify the path in your code (if needed).
   2.Run the Script
   3.Open the project in Eclipse.
